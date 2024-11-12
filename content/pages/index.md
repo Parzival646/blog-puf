@@ -48,7 +48,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: ''
+    text: >+
+      Estas são as minhas informações — estou compartilhando tudo isso com vocês
+      para impressioná-los com todo o trabalho duro que fiz nos últimos anos.
+      Quando estiver impressionado, você pode continuar rolando para baixo para
+      ver mais detalhes e credenciais sobre mim.
+
   - type: ContactSection
     colors: colors-f
     backgroundSize: full

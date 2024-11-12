@@ -116,4 +116,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Estou a disposição de atende-lo o mais rapido possivel. Conte comigo pelo
+      menos para sempre. Serei rapido para resolver seus problemas.
 ---

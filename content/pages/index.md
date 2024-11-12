@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: 'Olá, sou o Thayler!'
     subtitle: >-
       Sou desenvolvedor, artista digital, consultor e um monte de outros títulos
       impressionantes e palavras da moda.

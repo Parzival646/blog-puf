@@ -61,7 +61,7 @@ sections:
         - name: primeiro nome
           label: Primeiro nome
           hideLabel: true
-          placeholder: First Name
+          placeholder: Primeiro nome
           isRequired: true
           width: 1/2
           type: TextFormControl

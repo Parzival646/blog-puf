@@ -80,7 +80,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: endereço
-          label: Address
+          label: endereço
           hideLabel: true
           placeholder: Address
           isRequired: true

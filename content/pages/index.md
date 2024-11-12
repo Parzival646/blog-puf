@@ -16,11 +16,7 @@ sections:
     title: >-
       Sou desenvolvedor, artista digital, consultor e um monte de outros títulos
       impressionantes e palavras da moda.
-    subtitle: >-
-      Estas são as minhas informações — estou compartilhando tudo isso com vocês
-      para impressioná-los com todo o trabalho duro que fiz nos últimos anos.
-      Quando estiver impressionado, você pode continuar rolando para baixo para
-      ver mais detalhes e credenciais sobre mim.
+    subtitle: ''
     styles:
       self:
         height: auto

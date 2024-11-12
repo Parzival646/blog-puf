@@ -23,7 +23,8 @@
                 "label": "Blog",
                 "url": "https://blog.thayler.com",
                 "altText": "Blog Thayler",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowLeft"
             }
         ],
         "socialLinks": [

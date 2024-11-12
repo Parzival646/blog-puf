@@ -41,6 +41,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.facebook.com/thayler.pereira.779/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {

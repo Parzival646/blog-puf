@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Thayler",
+    "lastName": "Pereira",
+    "role": "CEO ",
+    "bio": "With over 10 years in both public and private sectors, Johnna has experience in management consultation, team building, professional development, strategic implementation, and company collaboration.",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/20241031_225245.jpg",
+        "altText": "Person photo",
+        "caption": "Caption of the image",
+        "elementId": ""
+    }
+}

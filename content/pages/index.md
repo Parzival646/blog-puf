@@ -82,7 +82,7 @@ sections:
         - name: endereço
           label: endereço
           hideLabel: true
-          placeholder: Address
+          placeholder: Endereço
           isRequired: true
           width: 1/2
           type: TextFormControl

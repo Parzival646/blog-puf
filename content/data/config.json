@@ -22,7 +22,8 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "https://blog.thayler.com",
-                "altText": "Blog Thayler"
+                "altText": "Blog Thayler",
+                "showIcon": true
             }
         ],
         "socialLinks": [

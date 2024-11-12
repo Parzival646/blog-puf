@@ -68,7 +68,7 @@ sections:
         - name: sobrenome
           label: Sobrenome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl

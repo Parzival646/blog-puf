@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Bem vindo ao meu portifólio profissional!
-colors: colors-c
+colors: colors-e
 date: '2024-11-15'
 client: Thayler
 description: 'Sou desenvolvedor, criador de conteúdo, consultor de negócios e cristão.'

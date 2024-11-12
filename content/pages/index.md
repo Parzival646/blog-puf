@@ -52,7 +52,7 @@ sections:
 
   - type: ContactSection
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: "Tem um projeto interessante? Conte-me mais...\U0001F4AC"
     form:
       type: FormBlock

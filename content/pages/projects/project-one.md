@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-11-15'
 client: Thayler
 description: 'Sou desenvolvedor, criador de conteúdo, consultor de negócios e cristão.'
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg

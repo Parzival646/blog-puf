@@ -13,13 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Olá, sou o Thayler!'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Sou desenvolvedor, artista digital, consultor e um monte de outros títulos
+      impressionantes e palavras da moda.
     styles:
       self:
         height: auto
@@ -47,105 +44,31 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+    text: >+
+      Estas são as minhas informações — estou compartilhando tudo isso com vocês
+      para impressioná-los com todo o trabalho duro que fiz nos últimos anos.
+      Quando estiver impressionado, você pode continuar rolando para baixo para
+      ver mais detalhes e credenciais sobre mim.
+
   - type: ContactSection
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    backgroundSize: inset
+    title: "Tem um projeto interessante? Conte-me mais...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
+        - name: primeiro nome
+          label: Primeiro nome
           hideLabel: true
-          placeholder: First Name
+          placeholder: Primeiro nome
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: sobrenome
+          label: Sobrenome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -156,19 +79,19 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: endereço
+          label: endereço
           hideLabel: true
-          placeholder: Address
+          placeholder: Endereço
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
+        - name: atualizaçõesConsentimento
+          label: Inscreva-me para receber atualizações
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         submitLabel:
           textAlign: center
@@ -193,4 +116,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Estou a disposição de atende-lo o mais rapido possivel. Conte comigo pelo
+      menos para sempre. Serei rapido para resolver seus problemas.
 ---

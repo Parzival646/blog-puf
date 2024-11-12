@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Personal",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -21,7 +21,10 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "https://blog.thayler.com",
+                "altText": "Blog Thayler",
+                "showIcon": false,
+                "icon": "cart"
             }
         ],
         "socialLinks": [
@@ -38,12 +41,35 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/thayler.of/",
+                "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.facebook.com/thayler.pereira.779/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/logo2.svg",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
@@ -84,11 +110,16 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by [Thayler](https://thayler.com)\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

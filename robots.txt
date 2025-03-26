@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Parzival646/github.io/blog-puf/sitemap.xml

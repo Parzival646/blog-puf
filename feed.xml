@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Portifolio 2</title>
-    <link href="https://parzival646/github.io/blog-puf/feed.xml" rel="self" />
-    <link href="https://parzival646/github.io/blog-puf" />
+    <link href="https://parzival646.github.io/blog-puf/feed.xml" rel="self" />
+    <link href="https://parzival646.github.io/blog-puf" />
     <updated>2025-03-25T16:12:03-03:00</updated>
     <author>
         <name>Thayler</name>
     </author>
-    <id>https://parzival646/github.io/blog-puf</id>
+    <id>https://parzival646.github.io/blog-puf</id>
 
     <entry>
         <title>Como escolher o curso correto. (copy)</title>
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-8/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-8/</id>
-
-        <updated>2025-03-25T16:09:51-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Como escolher o curso correto. (copy)</title>
-        <author>
-            <name>Thayler</name>
-        </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-7/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-7/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-8/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-8/</id>
 
         <updated>2025-03-25T16:09:51-03:00</updated>
             <summary></summary>
@@ -38,8 +26,20 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-6/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-6/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-7/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-7/</id>
+
+        <updated>2025-03-25T16:09:51-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Como escolher o curso correto. (copy)</title>
+        <author>
+            <name>Thayler</name>
+        </author>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-6/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-6/</id>
 
         <updated>2025-03-25T16:09:50-03:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-5/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-5/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-5/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-5/</id>
 
         <updated>2025-03-25T16:09:50-03:00</updated>
             <summary></summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-4/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-4/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-4/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-4/</id>
 
         <updated>2025-03-25T16:09:48-03:00</updated>
             <summary></summary>
@@ -74,8 +74,8 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-3/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-3/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-3/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-3/</id>
 
         <updated>2025-03-25T16:09:47-03:00</updated>
             <summary></summary>
@@ -86,8 +86,8 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-2/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto-2/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-2/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto-2/</id>
 
         <updated>2025-03-25T16:09:45-03:00</updated>
             <summary></summary>
@@ -98,8 +98,8 @@
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto/"/>
-        <id>https://parzival646/github.io/blog-puf/como-escolher-o-curso-correto/</id>
+        <link href="https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto/"/>
+        <id>https://parzival646.github.io/blog-puf/como-escolher-o-curso-correto/</id>
 
         <updated>2024-10-11T11:56:03-03:00</updated>
             <summary></summary>

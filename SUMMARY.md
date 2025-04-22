@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Guia](README.md)
+* [Primeiro acesso](primeiro-acesso.md)
